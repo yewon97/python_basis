@@ -28,6 +28,3 @@ print(person.keys())
 
 del person['gender']
 print('person gender delete: ', person)
-
-person.clear()
-print('person clear: ', person)
