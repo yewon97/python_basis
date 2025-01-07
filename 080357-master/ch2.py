@@ -20,7 +20,7 @@ print('풍선')
 print("나비")
 print("abcdefg")
 print("10")
-print("파이썬" * 3)
+print("파이썬" * 3) # 문자열 반복
 
 
 #print('작은따옴표") 
