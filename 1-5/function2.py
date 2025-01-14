@@ -38,3 +38,5 @@ print_info(name="연탄이", age=30, city="서울")
 info = {"name": "연탄이", "age": 30, "city": "서울"}
 # 딕셔너리를 키워드 인자로 전달하기 위해서는 **를 사용해야함
 print_info(**info)
+
+
